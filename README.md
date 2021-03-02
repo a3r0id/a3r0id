@@ -12,10 +12,8 @@
 - HTTP Server Frameworks -> [Sonoma](https://github.com/hostinfodev/sonoma)
 
 # Sonoma Module
-![](https://img.shields.io/badge/Sonoma-A%20tiny%2C%20programmable%20http--server%20crafting--framework%20that%20is%20built%20with%20security%20and%20simplicity%20in%20mind.-green)
+Sonoma is a tiny, convenient HTTP server crafting framework that is built with security and simplicity in mind.
 ![](https://camo.githubusercontent.com/b25fd418673edf6a4888bf1123cca46510a4aab40705eb1889e99e20d5fe99b2/68747470733a2f2f62616467652e667572792e696f2f70792f736f6e6f6d612e737667)
-
-
 
 # Host-Info.net
 
