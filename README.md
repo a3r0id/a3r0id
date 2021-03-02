@@ -19,4 +19,4 @@ Host-Info.net is a free online OSINT and network toolkit that provides researche
 
 [Visit]("https://host-info.net")
 
-[!](https://host-info.net/img/mag.png)
+[]!(https://host-info.net/img/mag.png)
