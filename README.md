@@ -17,6 +17,6 @@
 
 Host-Info.net is a free online OSINT and network toolkit that provides researchers with a safe, secure and anonymous set of testing and information-gathering tools. All tools are virtualized responsibly on our remote servers and are not capable (alone) of causing harm/disruption to other online services/assets.
 
-[Visit]("https://host-info.net")
+[Visit](https://host-info.net)
 
 ![](https://host-info.net/img/mag.png)
