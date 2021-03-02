@@ -19,7 +19,8 @@ Host-Info.net is a free online OSINT and network toolkit that provides researche
 
 ![](https://host-info.net/img/mag.png)
 
-Want to support hostinfodev?
+# Want to support hostinfodev?
+
 ![](https://camo.githubusercontent.com/cd07f1a5d90e454e7bbf69d22ebe4cdbd3a0b3dcf56ba0b6c2495a8e99c776be/68747470733a2f2f6b6f2d66692e636f6d2f696d672f676974687562627574746f6e5f736d2e737667)
 
 
