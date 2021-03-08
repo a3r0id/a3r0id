@@ -6,7 +6,7 @@
 
 # Portfolio
 
-- OSINT Tools -> [OSINT](https://github.com/hostinfodev/nesdis-goes)
+- OSINT Tools -> [Nesdis-GOES Scraper](https://github.com/hostinfodev/nesdis-goes)
 - Attack Surface Mapping -> [Mass-Scanning Tools](https://github.com/hostinfodev/mass-scanning-tools)
 - Secure AppSec Practices -> [PHP Rate-Limiting](https://github.com/hostinfodev/php-rate-limiting)
 - HTTP Server Frameworks -> [Sonoma](https://github.com/hostinfodev/sonoma)
