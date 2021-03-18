@@ -6,10 +6,10 @@
 
 # Portfolio
 
-- OSINT Tools -> [Nesdis-GOES Scraper](https://github.com/hostinfodev/nesdis-goes)
-- Attack Surface Mapping -> [Mass-Scanning Tools](https://github.com/hostinfodev/mass-scanning-tools)
-- Secure AppSec Practices -> [PHP Rate-Limiting](https://github.com/hostinfodev/php-rate-limiting)
-- HTTP Server Frameworks -> [Sonoma](https://github.com/hostinfodev/sonoma)
+- [Sonoma](https://github.com/hostinfodev/sonoma)
+- [Mass-Scanning Tools](https://github.com/hostinfodev/mass-scanning-tools)
+- [PHP Rate-Limiting](https://github.com/hostinfodev/php-rate-limiting)
+- [Nesdis-GOES Scraper](https://github.com/hostinfodev/nesdis-goes)
 
 # Sonoma Module
 ![](https://camo.githubusercontent.com/b25fd418673edf6a4888bf1123cca46510a4aab40705eb1889e99e20d5fe99b2/68747470733a2f2f62616467652e667572792e696f2f70792f736f6e6f6d612e737667)
