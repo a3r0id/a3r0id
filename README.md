@@ -4,6 +4,8 @@
 
 [hostinfodev](https://github.com/hostinfodev/hostinfodev) is dedicated to research projects by the developer of [Host-Info.net](https://host-info.net), [@A3r0Labs](https://github.com/A3r0Labs).
 
+[![hostinfodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hostinfodev)](https://github.com/anuraghazra/github-readme-stats)
+
 # Host-Info.net
 
 Host-Info.net is a free online OSINT and network toolkit that provides researchers with a safe, secure and anonymous set of testing and information-gathering tools. All tools are virtualized responsibly on our remote servers and are not capable (alone) of causing harm/disruption to other online services/assets.
