@@ -6,6 +6,8 @@
 
 [![hostinfodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hostinfodev&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![hostinfodev's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hostinfodev&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 # Host-Info.net
 
 Host-Info.net is a free online OSINT and network toolkit that provides researchers with a safe, secure and anonymous set of testing and information-gathering tools. All tools are virtualized responsibly on our remote servers and are not capable (alone) of causing harm/disruption to other online services/assets.
