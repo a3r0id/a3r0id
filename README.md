@@ -21,6 +21,8 @@ Host-Info.net is a free online OSINT and network toolkit that provides researche
 
 [![Sonoma Module](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=sonoma)](https://github.com/anuraghazra/github-readme-stats)
 
+[View On GitHub](https://github.com/hostinfodev/sonoma)
+
 [View On PyPI.org](https://pypi.org/project/sonoma/)
 
 Sonoma is a tiny, convenient HTTP server crafting framework that is built with security and simplicity in mind.
