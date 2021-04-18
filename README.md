@@ -2,8 +2,6 @@
 
 *hostinfodev*
 
-[hostinfodev](https://github.com/hostinfodev/hostinfodev) is dedicated to research projects by the developer of [Host-Info.net](https://host-info.net), [@A3r0Labs](https://github.com/A3r0Labs).
-
 [![hostinfodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hostinfodev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![hostinfodev's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hostinfodev&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
