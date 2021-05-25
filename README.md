@@ -6,13 +6,11 @@
 
 [![hostinfodev's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hostinfodev&theme=tokyonight&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Host-Info.net
+# Recon App
 
-Host-Info.net is a free online OSINT and network toolkit that provides researchers with a safe, secure and anonymous set of testing and information-gathering tools. All tools are virtualized responsibly on our remote servers and are not capable (alone) of causing harm/disruption to other online services/assets.
+Recon is a free online OSINT and network toolkit that provides researchers with a safe, secure and anonymous set of testing and information-gathering tools. All tools are virtualized responsibly on our remote servers and are not capable (alone) of causing harm/disruption to other online services/assets.
 
-[Visit](https://host-info.net)
-
-![](https://host-info.net/img/mag.png)
+[![Check Out Recon App](https://recon.us.com/img/recon_white_fill.png)](https://recon.us.com)
 
 # Sonoma Module
 ![](https://camo.githubusercontent.com/b25fd418673edf6a4888bf1123cca46510a4aab40705eb1889e99e20d5fe99b2/68747470733a2f2f62616467652e667572792e696f2f70792f736f6e6f6d612e737667)
