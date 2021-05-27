@@ -8,7 +8,7 @@
 
 # Recon App
 
-Recon is a free online OSINT and network toolkit that provides researchers with a safe, secure and anonymous set of testing and information-gathering tools. All tools are virtualized responsibly on our remote servers and are not capable (alone) of causing harm/disruption to other online services/assets.
+Recon is a free, online OSINT and network toolkit that provides researchers with a safe, secure and anonymous set of testing and information-gathering tools. All tools are virtualized responsibly on our remote servers and are not capable (alone) of causing harm/disruption to other online services/assets.
 
 [![Check Out Recon App](https://recon.us.com/img/recon_white_fill.png)](https://recon.us.com)
 
