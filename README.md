@@ -14,6 +14,9 @@
 ## California Live Cams Imagery Downloader
 [![California Live Cams Imagery Downloader](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=nesdis-goes)](https://github.com/hostinfodev/california-live-cams)
 
+## TryHackMe Sakura Room: Complete Writeup
+[![TryHackMe Sakura Writeup](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=TryHackMe-Sakura-Room-Writeup)](https://github.com/hostinfodev/TryHackMe-Sakura-Room-Writeup)
+
 ## Sonoma Framework: HTTP Development Server Crafting
 [![Sonoma Module](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=sonoma)](https://github.com/hostinfodev/sonoma)
 
