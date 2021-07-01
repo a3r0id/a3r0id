@@ -25,4 +25,6 @@
 
 [![Sonoma Module](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=sonoma)](https://github.com/hostinfodev/sonoma)
 
-[![ ✏️ My Gists](https://raw.githubusercontent.com/b4b4r07/i/master/gist/logo.png)](https://gist.github.com/hostinfodev)
+------
+## ✏️ My Gists
+[![ My Gists](https://raw.githubusercontent.com/b4b4r07/i/master/gist/logo.png)](https://gist.github.com/hostinfodev)
