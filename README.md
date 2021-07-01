@@ -14,6 +14,9 @@
 ## California Live Cams Imagery Downloader
 [![California Live Cams Imagery Downloader](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=nesdis-goes)](https://github.com/hostinfodev/california-live-cams)
 
+## Site Status/Uptime Bot For Teams Using Discord
+[![Site Status/Uptime Bot](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=site-status-discord-bot)](https://github.com/hostinfodev/site-status-discord-bot)
+
 ## TryHackMe Sakura Room: Complete Writeup
 [![TryHackMe Sakura Writeup](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=TryHackMe-Sakura-Room-Writeup)](https://github.com/hostinfodev/TryHackMe-Sakura-Room-Writeup)
 
