@@ -1,10 +1,10 @@
-![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hostinfodev)
-
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hostinfodev)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 [![hostinfodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hostinfodev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hostinfodev)
+
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hostinfodev)
 
 ## Recon App
 [![Check Out Recon App](https://recon.us.com/img/favicon.ico)](https://recon.us.com)
