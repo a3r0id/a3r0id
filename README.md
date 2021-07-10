@@ -5,11 +5,11 @@
 ## Recon App
 [![Check Out Recon App](https://recon.us.com/img/favicon.ico)](https://recon.us.com)
 
-## Twitter-User Module
-[![twitter-user](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=twitter-user)](https://github.com/hostinfodev/twitter-user)
-
 ## Mass-Scanning Tools
 [![Mass-Scanning Tools](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=mass-scanning-tools)](https://github.com/hostinfodev/mass-scanning-tools)
+
+## Twitter-User Module
+[![twitter-user](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=twitter-user)](https://github.com/hostinfodev/twitter-user)
 
 ## NESDIS-GOES Satellite Imagery Downloader
 [![Nesdis-GOES Downloader](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=nesdis-goes)](https://github.com/hostinfodev/nesdis-goes)
