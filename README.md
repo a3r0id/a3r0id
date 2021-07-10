@@ -5,6 +5,9 @@
 ## Recon App
 [![Check Out Recon App](https://recon.us.com/img/favicon.ico)](https://recon.us.com)
 
+## Twitter-User Module
+[![twitter-user](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=twitter-user)](https://github.com/hostinfodev/twitter-user)
+
 ## Mass-Scanning Tools
 [![Mass-Scanning Tools](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=mass-scanning-tools)](https://github.com/hostinfodev/mass-scanning-tools)
 
