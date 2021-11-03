@@ -5,11 +5,11 @@
 ## Recon App
 [![Check Out Recon App](https://recon.us.com/img/favicon.ico)](https://recon.us.com)
 
-## Tako Twitter Bot
-[![Tako Bot](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=tako)](https://github.com/hostinfodev/tako)
-
 ## Mass-Scanning Tools
 [![Mass-Scanning Tools](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=mass-scanning-tools)](https://github.com/hostinfodev/mass-scanning-tools)
+
+## Tako Twitter Bot
+[![Tako Bot](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=tako)](https://github.com/hostinfodev/tako)
 
 ## BetterCallerID
 [![BetterCallerID](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=BetterCallerID)](https://github.com/hostinfodev/BetterCallerID)
