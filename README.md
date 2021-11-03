@@ -8,15 +8,6 @@
 ## Mass-Scanning Tools
 [![Mass-Scanning Tools](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=mass-scanning-tools)](https://github.com/hostinfodev/mass-scanning-tools)
 
-## Tako Twitter Bot
-[![Tako Bot](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=tako)](https://github.com/hostinfodev/tako)
-
-## BetterCallerID
-[![BetterCallerID](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=BetterCallerID)](https://github.com/hostinfodev/BetterCallerID)
-
-## Twitter-User Module
-[![twitter-user](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=twitter-user)](https://github.com/hostinfodev/twitter-user)
-
 ## NESDIS-GOES Satellite Imagery Downloader
 [![Nesdis-GOES Downloader](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=nesdis-goes)](https://github.com/hostinfodev/nesdis-goes)
 
@@ -28,6 +19,15 @@
 
 ## TryHackMe Sakura Room: Complete Writeup
 [![TryHackMe Sakura Writeup](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=TryHackMe-Sakura-Room-Writeup)](https://github.com/hostinfodev/TryHackMe-Sakura-Room-Writeup)
+
+## Tako Twitter Bot
+[![Tako Bot](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=tako)](https://github.com/hostinfodev/tako)
+
+## BetterCallerID
+[![BetterCallerID](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=BetterCallerID)](https://github.com/hostinfodev/BetterCallerID)
+
+## Twitter-User Module
+[![twitter-user](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=twitter-user)](https://github.com/hostinfodev/twitter-user)
 
 ## Sonoma Framework: HTTP Development Server Crafting
 [![Sonoma Module](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&repo=sonoma)](https://github.com/hostinfodev/sonoma)
