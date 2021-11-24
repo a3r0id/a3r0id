@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hostinfodev)](https://github.com/anuraghazra/github-readme-stats)
+
 [![hostinfodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hostinfodev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recon App
