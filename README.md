@@ -2,8 +2,6 @@
 
 [![hostinfodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=hostinfodev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hostinfodev&hide=html,css,shell,batchfile,hack&exclude_repo=hostinfodev.github.io&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Headlines API](https://github-readme-stats.vercel.app/api/pin/?username=hostinfodev&show_owner=true&repo=headlines-api&theme=tokyonight)](https://github.com/hostinfodev/headlines-api)
 
 ## Recon App
