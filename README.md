@@ -5,6 +5,6 @@
 ## [![ My Gists](https://raw.githubusercontent.com/b4b4r07/i/master/gist/logo.png)](https://gist.github.com/hostinfodev)
 
 # Arma 3 
-## [Operation Mercury](https://github.com/hostinfodev/operation_mercury.zargabad)
+## [Operation Mercury](https://github.com/hostinfodev/operation_mercury.zargabad) - Zeus Operation
 
-## [Front Defense](https://github.com/hostinfodev/front_defence.WL_Rosche)
+## [Front Defense](https://github.com/hostinfodev/front_defence.WL_Rosche) - Persistent Gamemode/Milsim
