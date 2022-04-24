@@ -9,4 +9,4 @@
 
 ## [Front Defense](https://github.com/hostinfodev/front_defence.WL_Rosche) - Persistent Gamemode/Milsim
 
-## [](https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png)
+## [!](https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png)
