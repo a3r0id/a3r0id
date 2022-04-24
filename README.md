@@ -8,3 +8,5 @@
 ## [Operation Mercury](https://github.com/hostinfodev/operation_mercury.zargabad) - Zeus Operation
 
 ## [Front Defense](https://github.com/hostinfodev/front_defence.WL_Rosche) - Persistent Gamemode/Milsim
+
+## [My Community Discord[!](https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png)](https://discord.gg/QftAGcvbDT)
