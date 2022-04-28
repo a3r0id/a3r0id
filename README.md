@@ -9,4 +9,6 @@
 
 ## [Front Defense](https://github.com/hostinfodev/front_defence.WL_Rosche) - Persistent Gamemode/Milsim
 
+## [![ThreeSB Mod](https://github.com/hostinfodev/ThreeSB)
+
 ## [![Discord](https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png)](https://discord.gg/QftAGcvbDT)
