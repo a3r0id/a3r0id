@@ -5,10 +5,6 @@
 ## [![ My Gists](https://raw.githubusercontent.com/b4b4r07/i/master/gist/logo.png)](https://gist.github.com/hostinfodev)
 
 # Arma 3 
-## [Operation Mercury](https://github.com/hostinfodev/operation_mercury.zargabad) - Persistent Gamemode/Milsim
+## [ThreeSB Mod](https://github.com/hostinfodev/ThreeSB) - Smart-Simulated SSBs
 
-## [Front Defense](https://github.com/hostinfodev/front_defence.WL_Rosche) - Persistent Gamemode/Milsim
-
-## [ThreeSB Mod](https://github.com/hostinfodev/ThreeSB) - Smart-Simulated SSBs (Arma 3 - Military Simulation)
-
-## [![Discord](https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png)](https://discord.gg/QftAGcvbDT)
+## [![My Milsim's Discord](https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png)](https://discord.gg/QftAGcvbDT)
