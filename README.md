@@ -1,7 +1,8 @@
-[![Check Out Recon App](https://recon.us.com/img/favicon.ico)](https://recon.us.com)
+# OSINT
+## [Recon App](https://recon.us.com)
 
-# My Gists
-## [![ My Gists](https://raw.githubusercontent.com/b4b4r07/i/master/gist/logo.png)](https://gist.github.com/hostinfodev)
+# Misc.
+## [ My Gists](https://gist.github.com/hostinfodev)
 
 # Arma 3 
 ## [ThreeSB Mod](https://github.com/hostinfodev/ThreeSB) - Smart-Simulated SSBs
