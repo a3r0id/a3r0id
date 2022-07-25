@@ -4,6 +4,7 @@
 
 # __OSINT__
 > ### [Recon App](https://recon.us.com)
+> ### [Smart Curator API](https://rapidapi.com/asyncisneat/api/smart-curator/)
 
 # __Miscellaneous__
 > ### [ My Gists](https://gist.github.com/hostinfodev)
