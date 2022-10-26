@@ -7,5 +7,5 @@
 
 ----
 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hostinfodev&hide=css,html,shell,batchfile,hack&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api?username=hostinfodev&show_icons=true&theme=synthwave)]
+> [!](https://github-readme-stats.vercel.app/api/top-langs/?username=hostinfodev&hide=css,html,shell,batchfile,hack&theme=synthwave&show_icons=true) [!](https://github-readme-stats.vercel.app/api?username=hostinfodev&show_icons=true&theme=synthwave)
 
