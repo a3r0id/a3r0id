@@ -5,7 +5,7 @@
 
 > ### [Smart Curator API](https://rapidapi.com/asyncisneat/api/smart-curator/)
 
---
+----
 
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hostinfodev&hide=css,html,shell,batchfile,hack&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
