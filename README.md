@@ -1,4 +1,4 @@
-# __Hey, I'm A3R0 :wave:__ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rec0ndev)
+# __Hey, I'm A3R0 :wave:__ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/a3r0id)
 
 ## __My online OSINT resources__
 > ### [Recon App](https://recon.us.com)
@@ -7,5 +7,5 @@
 
 ----
 
-> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hostinfodev&hide=css,html,shell,batchfile,hack&theme=synthwave&show_icons=true) ![](https://github-readme-stats.vercel.app/api?username=hostinfodev&show_icons=true&theme=synthwave)
+> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=a3r0id&hide=css,html,shell,batchfile,hack&theme=synthwave&show_icons=true) ![](https://github-readme-stats.vercel.app/api?username=a3r0id&show_icons=true&theme=synthwave)
 
