@@ -3,7 +3,7 @@
 ## __My online OSINT resources__
 > ### [Recon App](https://recon.us.com)
 
-> ### [Smart Curator API](https://rapidapi.com/asyncisneat/api/smart-curator/)
+> ### [Headlines API](https://github.com/a3r0id/headlines-api)
 
 ----
 
