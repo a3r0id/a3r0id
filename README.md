@@ -3,6 +3,10 @@
 ## __My online OSINT resources__
 > ### [Recon App](https://recon.us.com)
 
+> ### [Recon App: Headlines Aggregator](https://headlines.recon.us.com)
+
+> ### [Recon App: Geo-Traceroute](https://geo.recon.us.com)
+
 > ### [Headlines API](https://github.com/a3r0id/headlines-api)
 
 ----
