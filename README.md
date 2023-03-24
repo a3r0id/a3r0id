@@ -2,8 +2,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=a3r0id&show_icons=true&theme=synthwave)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a3r0id&hide=css,html,shell,batchfile,hack&theme=synthwave&show_icons=true) 
-
 
 
 
