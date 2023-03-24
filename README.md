@@ -1,8 +1,7 @@
 # __Hey, I'm A3R0 :wave:__ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/a3r0id)
 
-## [API-Lab.xyz](https://api-lab.xyz)
+> ## [API-Lab.xyz](https://api-lab.xyz)
 
-## __My online OSINT resources__
 > ### [Recon App](https://recon.us.com)
 
 > ### [Recon App: Headlines Aggregator](https://headlines.recon.us.com)
