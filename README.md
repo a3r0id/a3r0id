@@ -1,4 +1,4 @@
-# __Hey, I'm A3R0 :wave:__ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/a3r0id)
+# __Hey, I'm A3R0 :wave:__
 
 ![](https://github-readme-stats.vercel.app/api?username=a3r0id&show_icons=true&theme=synthwave)
 
