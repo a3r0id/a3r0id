@@ -33,6 +33,7 @@
 ![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![](https://aleen42.github.io/badges/src/photoshop.svg)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=a3r0id&theme=blue-green)
 ![]()
 ![]()
