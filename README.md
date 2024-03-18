@@ -42,4 +42,5 @@
 ![](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=a3r0id&theme=blue-green)
+![](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
 
