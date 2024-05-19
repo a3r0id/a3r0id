@@ -1,4 +1,4 @@
-## [A3R0's Gists](https://gist.github.com/a3r0id)
+## 🌐 [A3R0's Gists](https://gist.github.com/a3r0id)
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
