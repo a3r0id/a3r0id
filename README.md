@@ -1,6 +1,6 @@
 ## ➡️ [My Gists](https://gist.github.com/a3r0id)
 
-## ➡️ [My Discord Server](https://isrc.wtf/discord)
+## ➡️ [Connect On Discord](https://isrc.wtf/discord)
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
