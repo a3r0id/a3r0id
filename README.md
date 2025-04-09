@@ -2,4 +2,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a3r0id&theme=transparent)
 
-➡️ [My Gists](https://gist.github.com/a3r0id) ➡️ [Connect On LinkedIn](https://www.linkedin.com/in/chad-g/) ➡️ [Connect On X](https://x.com/a3r0id)
+➡️ [My Gists](https://gist.github.com/a3r0id) ➡️ [Connect On LinkedIn](https://www.linkedin.com/in/chad-g/) ➡️ [Connect On X](https://x.com/a3r0id) ➡️ [My Discord Server](https://discord.com/invite/hSyKZdWuGZ)
