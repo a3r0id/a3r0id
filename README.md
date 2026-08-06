@@ -1,5 +1,3 @@
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -14,14 +12,6 @@
     </tr>
   </table>
 </div>
-
----
-
-## 🎯 About Me
-
-- 🔍 Always learning and exploring new technologies
-- 💻 Passionate about software development
-- 🚀 Building cool projects and contributing to open source
 
 ---
 
