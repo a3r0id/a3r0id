@@ -34,6 +34,7 @@ Feel free to reach out if you want to collaborate or just chat!
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)](https://github.com/a3r0id)
+  [![X](https://img.shields.io/twitter/follow/a3r0id)](https://x.com/a3r0id)
   
 </div>
 
