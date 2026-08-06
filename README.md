@@ -1,7 +1,3 @@
-# 👋 Hey there, I'm a3r0id
-
-Welcome to my GitHub profile! I'm passionate about coding and creating innovative solutions.
-
 ---
 
 ## 📊 GitHub Statistics
