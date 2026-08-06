@@ -4,7 +4,7 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=a3r0id&langs_count=10&theme=dark&layout=compact&hide=cmake,shell,batchfile,html" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=a3r0id&langs_count=10&theme=dark&layout=compact&hide=cmake,shell,batchfile,html,css" alt="Top Languages" />
       </td>
       <td width="50%">
         <img src="https://github-stats-extended.vercel.app/api?username=a3r0id&theme=dark&show_icons=true" alt="GitHub Stats" />
