@@ -4,25 +4,13 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=a3r0id&langs_count=10&theme=dark&layout=compact" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=a3r0id&langs_count=10&theme=dark&layout=compact&hide=cmake,shell" alt="Top Languages" />
       </td>
       <td width="50%">
         <img src="https://github-stats-extended.vercel.app/api?username=a3r0id&theme=dark&show_icons=true" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## 🛠️ Skills & Technologies
-
-<div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  
 </div>
 
 ---
